@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "DSvSNL"
+      href: DSvSNL.html
+    - text: "About"
+      href: about.html
