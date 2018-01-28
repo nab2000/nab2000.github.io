@@ -1,8 +1,8 @@
-name: "my-website"
+name: "Dean's Data Analytics"
 navbar:
-  title: "My Website"
+  title: "Dean's Data Analytics"
   left:
     - text: "DSvSNL"
       href: DSvSNL.html
-    - text: "About"
-      href: about.html
+    - text: "SF Crime"
+      href: https://nab2000.shinyapps.io/sf_crime_gis
